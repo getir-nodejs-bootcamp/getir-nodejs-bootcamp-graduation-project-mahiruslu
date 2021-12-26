@@ -12,7 +12,12 @@
   </a>
 </p>
 
-> We’d like you to create a RESTful API with a single endpoint that fetches the data in the provided MongoDB collection and return the results in the requested format. Requirements - The code should be written in Node.js using express framework - The endpoint should just handle HTTP POST requests. - The application should be deployed on AWS or Heroku. You don’t need to use any API Gateway, Load Balancers or any other layer than the developed application. - The up to date repo should be publicly available in Github, Bitbucket or equivalent.
+> We’d like you to create a RESTful API with a single endpoint that fetches the data in the provided MongoDB collection and return the results in the requested format.
+ Requirements
+ - The code should be written in Node.js using express framework
+ - The endpoint should just handle HTTP POST requests.
+ - The application should be deployed on AWS or Heroku. You don’t need to use any API Gateway, Load Balancers or any other layer than the developed application.
+ - The up to date repo should be publicly available in Github, Bitbucket or equivalent.
 
 ### 🏠 [Homepage](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-mahiruslu#readme)
 
@@ -38,17 +43,7 @@ npm run test
 
 * Github: [@getir-nodejs-bootcamp](https://github.com/getir-nodejs-bootcamp)
 
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-mahiruslu/issues). You can also take a look at the [contributing guide](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-mahiruslu/blob/master/CONTRIBUTING.md).
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
 This project is [ISC](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-mahiruslu/blob/master/LICENSE) licensed.
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
