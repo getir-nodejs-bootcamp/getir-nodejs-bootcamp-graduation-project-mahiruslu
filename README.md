@@ -21,6 +21,8 @@
 
 ### 🏠 [Homepage](https://github.com/getir-nodejs-bootcamp/getir-nodejs-bootcamp-graduation-project-mahiruslu#readme)
 
+# Api Reference
+
 ## Install
 
 ```sh
@@ -38,7 +40,6 @@ npm run start
 ```sh
 npm run test
 ```
-# Api Reference
 
 ## Url
 https://getir-graduation-mahiruslu.herokuapp.com/
