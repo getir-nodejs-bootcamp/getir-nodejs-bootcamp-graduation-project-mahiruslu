@@ -46,7 +46,9 @@ https://getir-graduation-mahiruslu.herokuapp.com/
 
 ## Endpoints
 
-`/api/report` > This will return a json object format
+```sh
+/api/report
+``` > This will return a json object format
 
 ### Post parameters to the endpoint
 
@@ -79,7 +81,7 @@ https://getir-graduation-mahiruslu.herokuapp.com/
 
 ## Author
 
-* Github: [@getir-nodejs-bootcamp](https://github.com/getir-nodejs-bootcamp)
+* Github: [@mahiruslu](https://github.com/mahiruslu)
 
 
 ## 📝 License
