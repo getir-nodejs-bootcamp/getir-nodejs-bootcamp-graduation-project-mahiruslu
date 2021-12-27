@@ -38,6 +38,43 @@ npm run start
 ```sh
 npm run test
 ```
+# Api Reference
+
+##Url
+https://getir-graduation-mahiruslu.herokuapp.com/
+
+##Endpoints
+
+`/api/report` > This will return a json object format
+
+##Post parameters to the endpoint
+
+| Parameter  | Type  | Desc / Format |
+| :------------ |:---------------:| -----:|
+| startDate      | String | Start Date (YYYY-MM-DD) |
+| endDate      | String        |  End Date (YYYY-MM-DD) |
+| minCount | Number        |    Minimum count value |
+| maxCount | Number        |    Maximum count value |
+
+##Returning Format
+`{
+    "code": "0",
+    "msg": "Success",
+    "records": [
+        {
+            "key": "TAKwGc6Jr4i8Z487",
+            "value": "Getir Task",
+            "count": 310
+        }
+    ]
+}`
+
+| Parameter | Values |  Description |
+| :------------ |:---------------:| -----:|
+| code      | 0,4,5  | Result code. 0 means success |
+| msg      | Success,Error    | Short result message |
+| records | ...  | If everthing is ok, returns record datas. |
+| details | ...  | If there is any error, returns error message. |
 
 ## Author
 
