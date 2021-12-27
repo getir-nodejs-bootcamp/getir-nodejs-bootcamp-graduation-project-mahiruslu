@@ -48,7 +48,7 @@ https://getir-graduation-mahiruslu.herokuapp.com/
 
 `/api/report` > This will return a json object format
 
-## Post parameters to the endpoint
+### Post parameters to the endpoint
 
 | Parameter  | Type  | Desc / Format |
 | :------------ |:---------------:| -----:|
