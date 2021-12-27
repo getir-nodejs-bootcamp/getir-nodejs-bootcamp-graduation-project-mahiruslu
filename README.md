@@ -37,7 +37,7 @@ https://getir-graduation-mahiruslu.herokuapp.com/
 ## Endpoints
 
 ```sh
-/api/report
+Method: POST /api/report
 ```
 
 ### Post parameters to the endpoint
