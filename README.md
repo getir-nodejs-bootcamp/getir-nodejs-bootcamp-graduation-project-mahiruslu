@@ -40,14 +40,14 @@ npm run test
 ```
 # Api Reference
 
-##Url
+## Url
 https://getir-graduation-mahiruslu.herokuapp.com/
 
-##Endpoints
+## Endpoints
 
 `/api/report` > This will return a json object format
 
-##Post parameters to the endpoint
+## Post parameters to the endpoint
 
 | Parameter  | Type  | Desc / Format |
 | :------------ |:---------------:| -----:|
@@ -56,7 +56,7 @@ https://getir-graduation-mahiruslu.herokuapp.com/
 | minCount | Number        |    Minimum count value |
 | maxCount | Number        |    Maximum count value |
 
-##Returning Format
+## Returning Format
 `{
     "code": "0",
     "msg": "Success",
